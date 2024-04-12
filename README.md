@@ -1,39 +1,43 @@
-Projet Cartofriches - CEREMA
+🌱 Projet Cartofriches - CEREMA
 
-Introduction
+📌 Introduction
 
-Le projet Cartofriches, développé pour le compte du CEREMA et à la demande du ministère de la Transition écologique, vise à améliorer l'utilisation des friches industrielles, commerciales et résidentielles en France. L'objectif est de faciliter la localisation et la caractérisation des friches pour encourager leur réutilisation et réduire l'artificialisation des sols.
+Le projet Cartofriches, élaboré pour le CEREMA et à la demande du ministère de la Transition écologique, vise à optimiser l'utilisation des friches (industrielles, commerciales, d’habitat...) pour encourager leur réutilisation et réduire l'artificialisation des sols.
 
-Objectifs du Projet
+🎯 Objectifs
 
-Le dispositif Cartofriches recense plus de 8700 sites de friches à partir de diverses sources et est intégré dans l'API Données foncières du Cerema. Ce projet a pour but d'améliorer ce dispositif grâce à l'utilisation des données et de la technologie pour:
+Ce projet utilise des données et technologies avancées pour:
 
-Automatiser et accélérer le processus de vérification des friches.
-Améliorer la précision des données pour faciliter les décisions de réutilisation.
-Réduire les coûts opérationnels par l'automatisation et la meilleure utilisation des ressources.
-Technologies et Outils Utilisés
+Automatiser la vérification des friches, réduisant le temps de traitement.
+Améliorer la précision des informations pour faciliter la réhabilitation des terrains.
+Réduire les coûts opérationnels grâce à l'efficacité accrue des processus automatisés.
+🔧 Technologies et Outils
 
-Machine Learning : Techniques d'apprentissage automatique pour analyser les images et les données des friches.
-Vision par Ordinateur : Utilisée pour identifier et classifier les terrains de friches.
-APIs et Intégrations : Utilisation de Google Street View, Google Earth, et des outils Vertex AI et AutoML pour intégrer et traiter les données de manière efficace.
-Étapes du Projet
+Utilisation de techniques de pointe telles que:
 
-Étape 1 : Analyse du Contexte et du Besoin
-Business Canvas : Analyse des aspects économiques, organisationnels et stratégiques du projet.
-Discovery : Identification des personas, problématiques et valeurs ajoutées par la solution.
-Synthèse de l'Amélioration : Développement des solutions pour améliorer le processus de vérification des friches.
-Étape 2 : Conception du MVP
-Développement d'un MVP : Spécification du type de produit Data envisagé, fonctionnalités clés, et intégration dans les processus métiers.
-Machine Learning Canvas : Définition des données d'entrée, des variables à prédire, et des algorithmes utilisés.
-Challenger le MVP : Évaluation des risques liés aux données, réglementations (comme le RGPD), et aspects éthiques.
-Étape 3 : Lancement
-Stratégie de Lancement : Préparation technique, développement de supports, stratégie de communication, formation et sensibilisation, support et feedback.
-Optimisation du Lancement : Déploiement efficace en intégrant des outils et technologies adéquats.
-Ressources
+Machine Learning et Computer Vision pour l'analyse automatisée.
+Google Street View et Google Earth pour l'intégration des données géospatiales.
+Vertex AI et AutoML de Google pour l'automatisation du traitement des données.
+🚀 Étapes du Projet
+
+Étape 1 : Analyse et Planification
+Analyse du Contexte : Définition des enjeux économiques et stratégiques.
+Discovery : Identification des personas et des problématiques clés.
+Améliorations : Proposition et validation des améliorations technologiques.
+Étape 2 : Développement du MVP
+Spécifications du MVP : Définition des caractéristiques et fonctionnalités prioritaires.
+Validation : Tests, évaluation des risques, conformité réglementaire (RGPD, éthique).
+Étape 3 : Lancement et Monitoring
+Déploiement : Stratégies de mise en marché et préparation technique.
+Support et Feedback : Établissement de supports de formation et de communication.
+📚 Ressources
 
 Cartofriches CEREMA
 Fonds Friches - Ministère de la Transition Écologique
-Sites référencés dans Cartofriches - data.gouv.fr
-Comment Contribuer
+Data Gouv - Sites de Friches
+🤝 Contribuer
 
-Les contributions sont les bienvenues pour améliorer le projet. Vous pouvez soumettre des bugs, des suggestions ou des améliorations via les issues GitHub, ou proposer des pull requests pour intégrer vos modifications.
+Nous encourageons la communauté à contribuer à l'amélioration de ce projet. Pour contribuer :
+
+Soumettre des Bugs : Utilisez les issues GitHub.
+Proposer des Améliorations : Soumettez des pull requests avec vos propositions.
